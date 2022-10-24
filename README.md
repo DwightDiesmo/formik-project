@@ -1,4 +1,4 @@
-# Title: RealTimeBusTracker
+# Title: Formik Project
 ## Description of the project:
 This is a project that was completed as part of the MITx Full-Stack Developer Bootcamp. This project uses Formik to help do form validation.
 
